@@ -5,6 +5,7 @@
     [1] Use any name as the username in the LoginManager. This username will be your username in the game!
     [2] Use password : "Admin"
     [3] Click Login
+    [4] Click Make File, Write File and Read File and then Goto under RockPaperScissors 
     [4] Enjoy the gameplay!
 
 --## DEV LOG ##--
