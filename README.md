@@ -2,7 +2,7 @@
 
 --## HOW TO USE THIS MACHINE ##--
    
-    [1] Use any name as the username in the LoginManager. This username will be your           username in the game!
+    [1] Use any name as the username in the LoginManager. This username will be your username in the game!
     [2] Use password : "Admin"
     [3] Click Login
     [4] Enjoy the gameplay!
@@ -18,5 +18,5 @@
     [PROJECT 1] RPG Game, Very basic
     [PROJECT 2] Snake Game, Also very basic
 
-## SPECIAL THANKS TO MYSELF! ##
+## SPECIAL THANKS TO Nothing#2456! ##
 ## TO STAY UPDATED CHECK THIS FILE EVERY WEEK! ##
