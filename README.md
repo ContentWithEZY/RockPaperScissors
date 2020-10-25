@@ -13,7 +13,7 @@
     [UPDATE 2] Made an exit button in the top right corner of the screen
     [UPDATE 3] Added a HighScore system!
 
---## OTHER PROJECTS ##--
+--## UPCOMING PROJECTS ##--
 
     [PROJECT 1] RPG Game, Very basic
     [PROJECT 2] Snake Game, Also very basic
