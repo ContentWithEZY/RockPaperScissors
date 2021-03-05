@@ -20,4 +20,3 @@
     [PROJECT 2] Snake Game, Also very basic
 
 ## SPECIAL THANKS TO Nothing#2456! ##
-## TO STAY UPDATED CHECK THIS FILE EVERY WEEK! ##
